@@ -1,0 +1,15 @@
+H:\Visual Studio\Sapin\Sapin\bin\Debug\net6.0\Sapin.exe
+H:\Visual Studio\Sapin\Sapin\bin\Debug\net6.0\Sapin.deps.json
+H:\Visual Studio\Sapin\Sapin\bin\Debug\net6.0\Sapin.runtimeconfig.json
+H:\Visual Studio\Sapin\Sapin\bin\Debug\net6.0\Sapin.dll
+H:\Visual Studio\Sapin\Sapin\bin\Debug\net6.0\Sapin.pdb
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.csproj.AssemblyReference.cache
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.GeneratedMSBuildEditorConfig.editorconfig
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.AssemblyInfoInputs.cache
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.AssemblyInfo.cs
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.csproj.CoreCompileInputs.cache
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.dll
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\refint\Sapin.dll
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.pdb
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\Sapin.genruntimeconfig.cache
+H:\Visual Studio\Sapin\Sapin\obj\Debug\net6.0\ref\Sapin.dll
