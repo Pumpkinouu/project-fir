@@ -10,6 +10,6 @@ Comment ouvrrir le programme
   Sapin\Program.cs
 ```
     
-## Authors
+## Auteur
 
 - [@Pumpkinouu](https://github.com/Pumpkinouu)
