@@ -4,7 +4,7 @@ Ce programme demande à l'utilisateur de rentrer une valeur pour la hauteur des 
 
 ## Programme
 
-Comment ouvrrir le programme
+Comment voir le programme
 
 ```bash
   Sapin\Program.cs
